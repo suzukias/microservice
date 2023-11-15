@@ -4,7 +4,7 @@ This microservice returns a random number between 1 and a number sent with the r
 How to programmatically REQUEST data:
 Make a HTTP GET request to the following endpoint.
 
-Endpoint: 'https://your-microservice-url.com/get_random_num'
+Endpoint: 'https://szkasm.pythonanywhere.com/'
 
 Include the max_num parameter in the URL query string to specify the maximum number for the random number generation.
 
