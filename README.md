@@ -2,6 +2,7 @@
 This microservice returns a random number between 1 and a number sent with the request.
 
 How to programmatically REQUEST data:
+
 Make a HTTP GET request to the following endpoint.
 
 Endpoint: 'https://szkasm.pythonanywhere.com/'
