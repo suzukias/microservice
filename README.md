@@ -33,4 +33,6 @@ The microservice responds with JSON data containing the generated random number 
 Handle the received random number like the above example.
 
 UML sequence diagram:
+
+
 ![image](https://github.com/suzukias/microservice/assets/114200275/014d4ba1-f602-4540-860b-f498ae0b093c)
